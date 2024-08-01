@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
     "composite": true,
-    "module": "esnext",
-    "moduleResolution": "node",
+    "module": "node16",
+    "moduleResolution": "node16", // измените на node16 или nodenext
     "resolveJsonModule": true,
     "isolatedModules": true,
     "esModuleInterop": true,
